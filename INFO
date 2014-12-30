@@ -1,0 +1,10 @@
+{
+    "name": "massengeschmack",
+    "hostprefix": "massengeschmack.tv",
+    "displayname": "Massengeschmack.tv",
+    "version": "0.2",
+    "authentication": "yes",
+    "module": "massengeschmack.php",
+    "class": "SynoFileHostingMassengeschmack",
+    "description": "Only with Account supported."
+}
