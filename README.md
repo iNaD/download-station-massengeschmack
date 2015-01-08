@@ -18,6 +18,16 @@
 
 [![Schritt 4](http://theinad.com/wp-content/uploads/2014/12/Step4.png)](http://theinad.com/wp-content/uploads/2014/12/Step4.png)
 
+## Update
+
+1. Im Webinterface von der Download Station die Einstellungen aufrufen.
+
+2. Auf den Reiter `Dateihosting` wechseln, `Massengeschmack.tv` auswählen und auf `Löschen` klicken
+
+4. Aus der Liste sollte nach einer kurzen Ladezeit `Massengeschmack.tv` verschwinden
+
+5. Dem Abschnitt `Installation` folgen
+
 ## Konfiguration
 
 Um den Provider nutzen zu können, müsst ihr noch eure Kontodaten hinterlegen. Diese entsprechen den Kontodaten von Massengeschmack.tv. Ohne diese wird der Download nicht funktionieren.
