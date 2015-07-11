@@ -40,7 +40,7 @@ Um den Provider nutzen zu können, müsst ihr noch eure Kontodaten hinterlegen. 
 
 [![Schritt 6](http://theinad.com/wp-content/uploads/2014/12/Step6.png)](http://theinad.com/wp-content/uploads/2014/12/Step6.png)
 
-**Hinweis** Der Knopf "Überprüfen" hat zur Zeit keine Funktion, da noch keine Überprüfung der Logindaten eingebaut worden ist.
+**Hinweis** Der Knopf "Überprüfen" besitzt nun eine Funktion besitzen und überprüft eure Logindaten auf allgemeine Korrektheit.
 
 Nun kann das Einstellungsfenster mit einem Klick auf `OK` geschlossen werden.
 
@@ -49,11 +49,14 @@ Nun kann das Einstellungsfenster mit einem Klick auf `OK` geschlossen werden.
 Nach der erfolgreichen Installation und Konfiguration kann nun endlich mit dem Herunterladen begonnen werden.
 Geht einfach auf [Massengeschmack.tv](http://massengeschmack.tv) und sucht die relevanten Folgen heraus.
 
+Hierfür geht ihr einfach auf `Ansehen` und kopiert die URL (z.B. `http://massengeschmack.tv/play/0/studio-100`).
+
 **Hinweis** Natürlich können nur Folgen heruntergeladen werden, zu denen euer Konto die Berechtigung habt. Hierfür existiert zur Zeit auch noch kein Test.
 
-[![Download Link](http://theinad.com/wp-content/uploads/2014/12/download-link.png)](http://theinad.com/wp-content/uploads/2014/12/download-link.png)
+** HIER NEUES BILD EINFÜGEN **
 
-Dieser Link wird nun ganz normal bei der Download Station hinzugefügt und der Download sollte den Provider nutzen und nach kurzer Zeit starten.
+Diese Url wird nun ganz normal bei der Download Station hinzugefügt und der Download sollte den Provider nutzen und nach kurzer Zeit starten.
+Hierbei wird die höchste verfügbare Qualität genutzt und die Datei auch entsprechend nach Sendung und Folge benannt.
 
 [![Download Hinzufügen](http://theinad.com/wp-content/uploads/2014/12/download-add.png)](http://theinad.com/wp-content/uploads/2014/12/download-add.png)
 

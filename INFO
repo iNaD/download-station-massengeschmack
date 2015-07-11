@@ -2,7 +2,7 @@
     "name": "massengeschmack",
     "hostprefix": "massengeschmack.tv",
     "displayname": "Massengeschmack.tv",
-    "version": "0.2",
+    "version": "0.3a",
     "authentication": "yes",
     "module": "massengeschmack.php",
     "class": "SynoFileHostingMassengeschmack",
