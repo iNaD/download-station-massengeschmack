@@ -1,5 +1,7 @@
 # Synology Download Station Hoster Plugin für Massengeschmack.tv
 
+## !Dieses Projekt wird nicht weitergeführt!
+
 ## Installation
 
 1. Im Webinterface von der Download Station die Einstellungen aufrufen.
